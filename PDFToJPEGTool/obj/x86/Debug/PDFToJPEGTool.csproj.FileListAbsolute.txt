@@ -1,0 +1,10 @@
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\bin\Debug\PDFToJPEGTool.exe
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\bin\Debug\PDFToJPEGTool.pdb
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\PDFToJPEGTool.frmPDFToJPEGTool.resources
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\PDFToJPEGTool.Properties.Resources.resources
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\PDFToJPEGTool.exe
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\obj\x86\Debug\PDFToJPEGTool.pdb
+Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\bin\Debug\Ghostscript.NET.dll

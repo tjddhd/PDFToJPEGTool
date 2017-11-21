@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PDFToJPEGTool">
+</Property><Property Name="Solution File" Value="Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\PDFToJPEGTool.sln">
+</Property><Property Name="Date" Value="Wednesday, November 08, 2017">
+</Property><Property Name="Time" Value="12:30:29 PM">
+</Property></Properties><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\GhostscriptSharp.csproj" Description="Project file successfully backed up as Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\Backup\GhostscriptSharp.csproj">
+</Event><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\API\GhostScript32.cs" Description="File successfully backed up as Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\Backup\API\GhostScript32.cs">
+</Event><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\API\GhostScript64.cs" Description="File successfully backed up as Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\Backup\API\GhostScript64.cs">
+</Event><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\GhostscriptSharp.cs" Description="File successfully backed up as Z:\new_VM_Shared\Stuff\PDFToJPEGTool\PDFToJPEGTool\Backup\GhostscriptSharp.cs">
+</Event><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\GhostscriptSharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\GhostscriptSharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GhostscriptSharp" Source="..\ghostscriptsharp-master\GhostScriptSharp\GhostscriptSharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
